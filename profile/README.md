@@ -2,8 +2,8 @@
 
 **邓晓雯 · Portfolio 2027**
 
-UI 界面与交互设计 / 数字出版
+UI / UX Designer · Visual Systems
 
-[在线作品集 →](https://plex-w.github.io/portfolio/)
+[在线作品集 →](https://plex-w.github.io/)
 
-[仓库](https://github.com/Plex-w/portfolio)
+[仓库](https://github.com/Plex-w/Plex-w.github.io)
